@@ -1,8 +1,3 @@
-var msg = 'Hello World';
-console.log(msg);
-
-
-
 
 var express = require('express');
 var path = require('path');
